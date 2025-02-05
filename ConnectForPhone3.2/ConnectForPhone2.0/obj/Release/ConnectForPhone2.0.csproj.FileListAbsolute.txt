@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ConnectForPhone.exe.config
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ConnectForPhone.exe.manifest
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ConnectForPhone.application
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ConnectForPhone.exe
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ConnectForPhone.pdb
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\ChineseConverter.dll
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\bin\Release\NPinyinPro.dll
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone2.0.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone2._0.Form1.resources
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone.Properties.Resources.resources
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone2.0.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone.exe.manifest
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone.application
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone2.0.csproj.CopyComplete
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone.exe
+C:\Users\Admin\Desktop\橋接用\ConnectForPhone3.1\ConnectForPhone2.0\obj\Release\ConnectForPhone.pdb

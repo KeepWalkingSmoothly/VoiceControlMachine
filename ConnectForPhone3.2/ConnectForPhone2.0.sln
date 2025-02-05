@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectForPhone2.0", "ConnectForPhone2.0\ConnectForPhone2.0.csproj", "{08475E84-5FA4-4E67-B5F8-8B33A3D6E9C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "background", "background\background.vdproj", "{62835E83-A5CD-4290-BB6D-4ED1BD714892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08475E84-5FA4-4E67-B5F8-8B33A3D6E9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08475E84-5FA4-4E67-B5F8-8B33A3D6E9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08475E84-5FA4-4E67-B5F8-8B33A3D6E9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08475E84-5FA4-4E67-B5F8-8B33A3D6E9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62835E83-A5CD-4290-BB6D-4ED1BD714892}.Debug|Any CPU.ActiveCfg = Debug
+		{62835E83-A5CD-4290-BB6D-4ED1BD714892}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D13A1C6-899B-4E4C-86EC-07C1B3B16256}
+	EndGlobalSection
+EndGlobal
