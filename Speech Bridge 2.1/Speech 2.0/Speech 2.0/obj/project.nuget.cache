@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPD+UMZaLnTjg489AEZhsX5wBlOp3eJoF6u1Vw4Hr7xgE64eXQN6t0H8sqA/oBf1oLc40Q8e8VAmKAUV49Cbvw==",
+  "success": true,
+  "projectFilePath": "C:\\冠宏\\SpeechToText\\Speech Bridge 2.1\\Speech 2.0\\Speech 2.0\\Speech 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nmodbus\\3.0.72\\nmodbus.3.0.72.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nmodbus4\\3.0.0-alpha2\\nmodbus4.3.0.0-alpha2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Speech_2._0.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+                <Label Text="聲控系統" HorizontalTextAlignment="Center" TextColor="White" FontSize="30"/>
+            </Frame>
+            <!--Padding 内緣間距-->
+            <Frame Padding="6">
+                <StackLayout>
+                    <Label Text="IP :" TextColor="DimGray"/>
+                    <Entry Text="" x:Name="txtIP" TextColor="DimGray"/>
+                    <Label Text="Port :" TextColor="DimGray"/>
+                    <Entry Text="502" x:Name="txtPort" TextColor="DimGray"/>
+                    <Button Text="Connect" x:Name="btnConnect" Clicked="btnConnect_Clicked" TextColor="DimGray"/>
+                    <Button Text="Disconnect" x:Name="btnDisconnect" Clicked="btnDisconnect_Clicked" TextColor="DimGray"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame Padding="3">
+                <StackLayout>
+                    <Label Text="" VerticalOptions="Center" HorizontalOptions="Center" x:Name="lblText" />
+                    <Button Text="開始辨識" VerticalOptions="Center" HorizontalOptions="Center" x:Name="btnSpeech" Clicked="btnSpeech_Clicked" />
+                </StackLayout>
+            </Frame>
+
+            <Frame Padding="3">
+                <StackLayout>
+                    <Button Text="清空列表" VerticalOptions="Center" Clicked="btnClear_Clicked" />
+                    <ListView x:Name="lstMessages" VerticalOptions="FillAndExpand">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Padding="3">
+                                        <Label Text="{Binding}" TextColor="DimGray"/>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

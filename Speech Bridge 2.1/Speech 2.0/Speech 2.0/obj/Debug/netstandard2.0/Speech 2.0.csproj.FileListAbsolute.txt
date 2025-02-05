@@ -1,0 +1,60 @@
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.deps.json
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\ref\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\ref\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 2.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.deps.json
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\refint\Speech 2.0.dll
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\Admin\Desktop\SpeechToText\Speech 3.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\ref\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfo.cs
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\refint\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.deps.json
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\SpeechToText\Speech 3.2\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\ref\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.deps.json
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\bin\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.AssemblyInfo.cs
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\refint\Speech 2.0.dll
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\Speech 2.0.pdb
+C:\Users\User\Desktop\SpeechToText\Speech 6.0\Speech 2.0\Speech 2.0\obj\Debug\netstandard2.0\ref\Speech 2.0.dll
