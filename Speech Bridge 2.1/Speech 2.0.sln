@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech 2.0.Android", "Speech 2.0\Speech 2.0.Android\Speech 2.0.Android.csproj", "{8E9E202E-55C1-4429-9BC1-3C4196D9931C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech 2.0", "Speech 2.0\Speech 2.0\Speech 2.0.csproj", "{CA91261F-C003-492B-A5FA-F55EBC200212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9E202E-55C1-4429-9BC1-3C4196D9931C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA91261F-C003-492B-A5FA-F55EBC200212}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3EDC00-82A5-49E5-8AC3-575BF48EEDCF}
+	EndGlobalSection
+EndGlobal
